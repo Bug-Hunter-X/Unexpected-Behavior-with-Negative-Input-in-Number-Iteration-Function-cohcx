@@ -1,0 +1,1 @@
+This code demonstrates an unexpected behavior in a TypeScript function designed to print numbers from 1 to n. When a negative number is passed as input, the function silently does nothing instead of throwing an error or handling the negative input appropriately. The solution provides a modified version of the function that addresses this issue.
